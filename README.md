@@ -9,3 +9,9 @@ Edite as variáveis. :neckbeard:
 | urlLogoMT | URL do logo |
 | widthLogo | Tamanho do logo ( valor númerico em px, ex: 100 ) |
 | paddingLogo | Espaçamento do logo ( valor númerico em rem, ex: 1 ) |
+
+:exclamation:**OBS:** 
+
+ - A url de redirecionamento é gerada automaticamente baseado no url atual do projeto.
+ - 
+
