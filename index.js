@@ -27,4 +27,4 @@ function insertLogoMTWbuy () {
   logoWbuy.after(clone)
 }
 
-insertLogoMTWbuy ();
+document.querySelector('footer + div a[href="https://www.wbuy.com.br/"]') ? insertLogoMTWbuy () : null;
