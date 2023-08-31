@@ -8,7 +8,7 @@ Edite as variáveis. :neckbeard:
 | ------ | ------ |
 | urlLogoMT | URL do logo |
 | widthLogo | Tamanho do logo ( valor númerico em px, ex: 100 ) |
-| paddingLogo | Espaçamento do logo ( valor númerico em rem, ex: 1 ) |
+| paddingLogo | Espaçamento do logo ( valor númerico em px, ex: 10 ) |
 
 :exclamation:**OBS:** 
 
