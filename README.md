@@ -13,4 +13,7 @@ Edite as variáveis. :neckbeard:
 :exclamation:**OBS:** 
 
  - A url de redirecionamento é gerada automaticamente baseado no url atual do projeto.
-
+ - O script precisa estar dentro da tag de script ex:
+ ```plaintext
+<script></script>
+```
